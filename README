@@ -1,0 +1,12 @@
+lab4_A:
+00000000004004b4 T _Z7averagePdRd   <<這兩個是average() function,參數為double * , double &
+00000000004004e2 T _Z7averageif     <<參數為int , float
+000000000040050a T main
+
+lab4_B:
+E84001032@2015cpp:~/lab/lab4$ ./lab4_B
+1 8
+4 8
+4 8
+8 8
+pointer因為是指向記憶體位置 故長度皆為8
